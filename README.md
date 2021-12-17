@@ -11,3 +11,11 @@ Welcome to my GitHub page. Pleased to have you here! Here is my profile:
 - 💬 Ask me about anything!
 - 📫 How to reach me: You may want to join my [Discord](https://discord.gg/qsxVMNg) server. UwU terms apply.
 - ⚡ Fun fact: **GhostZero** was an code name to hide my real username.
+
+
+<a href="https://github.com/ghostzero">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghostzero&count_private=true&theme=dracula&title_color=e91e63&bg_color=161b22&hide_border=true" /> 
+</a>
+<a href="https://github.com/ghostzero">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostzero&theme=dracula&title_color=e91e63&bg_color=161b22&hide_border=true" />
+</a>
