@@ -9,7 +9,7 @@ Welcome to my GitHub page. Pleased to have you here! Here is my profile:
 - 🏠 I'm living in Cologne, Germany. Grew up in Ense, Germany.
 - 🎮 I've developed 50+ Minecraft Mods and Plugins from 2011-2018. It's still a great game!
 - 💬 Ask me about anything!
-- 📫 How to reach me: You may want to join my [Discord](https://discord.gg/qsxVMNg) server. UwU terms apply.
+- 📫 How to reach me: You may want to join my [Discord](https://ghostzero.dev/discord) server. UwU terms apply.
 - ⚡ Fun fact: **GhostZero** was an code name to hide my real username.
 
 
