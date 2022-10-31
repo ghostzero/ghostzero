@@ -12,7 +12,4 @@ Welcome to my GitHub page. Pleased to have you here! Here is my profile:
 - 📫 How to reach me: You may want to join my [Discord](https://ghostzero.dev/discord) server. UwU terms apply.
 - ⚡ Fun fact: **GhostZero** was an code name to hide my real username.
 
-
-<a href="https://github.com/ghostzero">
-  <img align="center" src="/github-metrics.svg" width="100%" /> 
-</a>
+<img align="center" src="/github-metrics.svg" width="100%" /> 
