@@ -18,7 +18,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: LewisTehMinerz
+          user: ghostzero
           
           template: classic
           base: header, activity, community, repositories, metadata
