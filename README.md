@@ -14,8 +14,5 @@ Welcome to my GitHub page. Pleased to have you here! Here is my profile:
 
 
 <a href="https://github.com/ghostzero">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghostzero&count_private=true&theme=dracula&title_color=e91e63&bg_color=161b22&hide_border=true" /> 
-</a>
-<a href="https://github.com/ghostzero">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostzero&theme=dracula&title_color=e91e63&bg_color=161b22&hide_border=true" />
+  <img align="center" src="/github-metrics.svg" width="100%" /> 
 </a>
