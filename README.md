@@ -15,5 +15,3 @@ Welcome to my GitHub page. Pleased to have you here! Here is my profile:
 ### Links
 
 - <a rel="me" href="https://anikeen.social/@ghostzero">Mastodon</a>
-
-<img align="center" src="/github-metrics.svg" width="100%" /> 
